@@ -1,0 +1,5 @@
+print("Hello, my name is Nandana")
+print("I am in 7th grade")
+print("My faviorite color is purple")
+print(124)
+print("I am",12,"years old")

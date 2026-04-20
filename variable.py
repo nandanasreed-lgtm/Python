@@ -1,0 +1,8 @@
+name=input("Enter your name: ")
+place=input("Enter your place: ")
+age=int(input("Enter your age: "))
+grade=int(input("Enter your grade: "))
+print("My name is",name)
+print("I am from",place)
+print("I am in",grade)
+print("My age is",age)
